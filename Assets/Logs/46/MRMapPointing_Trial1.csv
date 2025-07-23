@@ -1,0 +1,45 @@
+
+Time;TrialNum;TriggerNum,Referencelandmark;Displaylandmark, GroundTruthDirection; EstDirection; Angle
+4/18/2025 6:18:15 PM;;;;;;;
+4/18/2025 6:19:57 PM;0;1;TargetLandmark3_GlobalLandmark1;TargetLandmark1_Billboard;(0.995, 0.000, -0.098);(0.110, 0.000, -0.994);78.057
+4/18/2025 6:20:43 PM;1;2;TargetLandmark3_GlobalLandmark1;TargetLandmark2_LionStatue;(0.688, 0.000, -0.725);(-0.972, 0.000, 0.231);146.866
+4/18/2025 6:20:58 PM;2;3;TargetLandmark3_GlobalLandmark1;TargetLandmark4_GasStation;(0.441, 0.000, 0.897);(0.263, 0.000, 0.965);10.907
+4/18/2025 6:21:32 PM;3;4;TargetLandmark3_GlobalLandmark1;TargetLandmark5_Church;(0.681, 0.000, 0.730);(-0.995, 0.000, -0.103);138.933
+4/18/2025 6:22:07 PM;4;5;TargetLandmark3_GlobalLandmark1;TargetLandmark6_GlobalLandmark2;(0.847, 0.000, 0.515);(0.981, 0.000, 0.168);21.554
+4/18/2025 6:22:53 PM;5;6;TargetLandmark3_GlobalLandmark1;TargetLandmark7_MusicShop;(0.975, 0.000, 0.217);(1.000, 0.000, -0.028);14.139
+4/18/2025 6:23:31 PM;6;8;TargetLandmark7_MusicShop;TargetLandmark1_Billboard;(-0.687, 0.000, -0.726);(-0.996, 0.000, 0.093);51.944
+4/18/2025 6:24:02 PM;7;9;TargetLandmark7_MusicShop;TargetLandmark2_LionStatue;(-0.720, 0.000, -0.694);(0.985, 0.000, -0.174);126.051
+4/18/2025 6:24:10 PM;8;10;TargetLandmark7_MusicShop;TargetLandmark3_GlobalLandmark1;(-0.952, 0.000, -0.294);(-0.999, 0.000, -0.040);14.848
+4/18/2025 6:24:18 PM;9;11;TargetLandmark7_MusicShop;TargetLandmark4_GasStation;(-0.989, 0.000, 0.147);(0.692, 0.000, 0.720);125.437
+4/18/2025 6:24:27 PM;10;12;TargetLandmark7_MusicShop;TargetLandmark5_Church;(-0.567, 0.000, 0.816);(-0.986, 0.000, 0.154);46.331
+4/18/2025 6:24:35 PM;11;13;TargetLandmark7_MusicShop;TargetLandmark6_GlobalLandmark2;(0.262, 0.000, 0.887);(0.204, 0.000, 0.768);1.533
+4/18/2025 6:24:53 PM;12;15;TargetLandmark4_GasStation;TargetLandmark1_Billboard;(0.663, 0.000, -0.747);(-0.064, 0.000, 0.997);142.079
+4/18/2025 6:25:25 PM;13;16;TargetLandmark4_GasStation;TargetLandmark2_LionStatue;(0.078, 0.000, -0.997);(-0.192, 0.000, 0.967);173.257
+4/18/2025 6:25:33 PM;14;17;TargetLandmark4_GasStation;TargetLandmark3_GlobalLandmark1;(-0.661, 0.000, -0.730);(0.367, 0.000, -0.901);64.296
+4/18/2025 6:25:42 PM;15;18;TargetLandmark4_GasStation;TargetLandmark5_Church;(0.741, 0.000, 0.661);(-0.680, 0.000, 0.691);92.803
+4/18/2025 6:25:54 PM;16;19;TargetLandmark4_GasStation;TargetLandmark6_GlobalLandmark2;(0.922, 0.000, 0.337);(0.076, 0.000, -0.994);105.710
+4/18/2025 6:26:07 PM;17;20;TargetLandmark4_GasStation;TargetLandmark7_MusicShop;(0.975, 0.000, -0.212);(-0.069, 0.000, -0.997);81.663
+4/18/2025 6:26:29 PM;18;22;TargetLandmark2_LionStatue;TargetLandmark1_Billboard;(0.816, 0.000, 0.575);(-0.994, 0.000, -0.105);150.814
+4/18/2025 6:26:32 PM;19;23;TargetLandmark2_LionStatue;TargetLandmark3_GlobalLandmark1;(-0.868, 0.000, 0.455);(-0.801, 0.000, 0.371);2.834
+4/18/2025 6:26:42 PM;20;24;TargetLandmark2_LionStatue;TargetLandmark4_GasStation;(-0.198, 0.000, 0.980);(1.000, 0.000, 0.019);100.333
+4/18/2025 6:26:55 PM;21;25;TargetLandmark2_LionStatue;TargetLandmark5_Church;(0.317, 0.000, 0.947);(-0.992, 0.000, -0.083);113.288
+4/18/2025 6:27:07 PM;22;26;TargetLandmark2_LionStatue;TargetLandmark6_GlobalLandmark2;(0.616, 0.000, 0.776);(0.993, 0.000, 0.118);44.738
+4/18/2025 6:27:15 PM;23;27;TargetLandmark2_LionStatue;TargetLandmark7_MusicShop;(0.779, 0.000, 0.624);(-0.992, 0.000, -0.106);147.356
+4/18/2025 6:27:21 PM;24;29;TargetLandmark1_Billboard;TargetLandmark2_LionStatue;(-0.743, 0.000, -0.668);(-0.132, 0.000, -0.987);40.442
+4/18/2025 6:27:33 PM;25;30;TargetLandmark1_Billboard;TargetLandmark3_GlobalLandmark1;(-0.986, 0.000, 0.088);(0.117, 0.000, 0.993);91.657
+4/18/2025 6:27:36 PM;26;31;TargetLandmark1_Billboard;TargetLandmark4_GasStation;(-0.603, 0.000, 0.798);(-0.130, 0.000, 0.991);29.620
+4/18/2025 6:27:50 PM;27;32;TargetLandmark1_Billboard;TargetLandmark5_Church;(0.104, 0.000, 0.992);(0.952, 0.000, 0.014);83.123
+4/18/2025 6:27:59 PM;28;33;TargetLandmark1_Billboard;TargetLandmark6_GlobalLandmark2;(0.536, 0.000, 0.826);(-0.027, 0.000, -0.995);148.572
+4/18/2025 6:28:10 PM;29;34;TargetLandmark1_Billboard;TargetLandmark7_MusicShop;(0.748, 0.000, 0.658);(-0.065, 0.000, 0.998);52.391
+4/18/2025 6:28:30 PM;30;36;TargetLandmark6_GlobalLandmark2;TargetLandmark1_Billboard;(-0.489, 0.000, -0.872);(-0.114, 0.000, 0.977);144.021
+4/18/2025 6:28:50 PM;31;37;TargetLandmark6_GlobalLandmark2;TargetLandmark2_LionStatue;(-0.600, 0.000, -0.800);(-0.956, 0.000, 0.115);60.012
+4/18/2025 6:29:00 PM;32;38;TargetLandmark6_GlobalLandmark2;TargetLandmark3_GlobalLandmark1;(-0.876, 0.000, -0.475);(-0.965, 0.000, -0.221);15.521
+4/18/2025 6:29:06 PM;33;39;TargetLandmark6_GlobalLandmark2;TargetLandmark4_GasStation;(-0.983, 0.000, -0.181);(0.998, 0.000, -0.036);167.486
+4/18/2025 6:29:16 PM;34;40;TargetLandmark6_GlobalLandmark2;TargetLandmark5_Church;(-0.866, 0.000, 0.474);(-0.976, 0.000, -0.213);40.985
+4/18/2025 6:29:29 PM;35;41;TargetLandmark6_GlobalLandmark2;TargetLandmark7_MusicShop;(-0.086, 0.000, -0.985);(0.360, 0.000, 0.818);161.215
+4/18/2025 6:29:40 PM;36;43;TargetLandmark5_Church;TargetLandmark1_Billboard;(0.117, 0.000, -0.993);(0.035, 0.000, 0.999);171.326
+4/18/2025 6:30:04 PM;37;44;TargetLandmark5_Church;TargetLandmark2_LionStatue;(-0.182, 0.000, -0.983);(-1.000, 0.000, -0.016);78.608
+4/18/2025 6:30:08 PM;38;45;TargetLandmark5_Church;TargetLandmark3_GlobalLandmark1;(-0.590, 0.000, -0.803);(-0.008, 0.000, 1.000);143.243
+4/18/2025 6:30:11 PM;39;46;TargetLandmark5_Church;TargetLandmark4_GasStation;(-0.623, 0.000, -0.782);(0.999, 0.000, 0.035);130.539
+4/18/2025 6:30:16 PM;40;47;TargetLandmark5_Church;TargetLandmark6_GlobalLandmark2;(0.911, 0.000, -0.299);(0.949, 0.000, -0.224);4.868
+4/18/2025 6:30:37 PM;41;48;TargetLandmark5_Church;TargetLandmark7_MusicShop;(0.552, 0.000, -0.831);(-0.999, 0.000, 0.051);126.509

@@ -1,0 +1,5 @@
+
+BlockNumber,TaskAccuracy(%),AvgReactionTime(ms),FalseAlarms(%),MissedMatches(%),TotalTrials,CorrectResponses
+Final Summary - Task Accuracy (%): 0.00, Avg Reaction Time (ms): 0.00, False Alarms (%): 0.00, Missed Matches (%): 0.00
+BlockNumber,TaskAccuracy(%),AvgReactionTime(ms),FalseAlarms(%),MissedMatches(%),TotalTrials,CorrectResponses
+Final Summary - Task Accuracy (%): 4.35, Avg Reaction Time (ms): 417.63, False Alarms (%): 2.24, Missed Matches (%): 95.65

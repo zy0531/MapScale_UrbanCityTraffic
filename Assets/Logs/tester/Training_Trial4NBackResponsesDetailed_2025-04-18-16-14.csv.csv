@@ -1,0 +1,10 @@
+
+Timestamp(ms),DateTime,Stimulus,TargetStatus,ParticipantResponse,ReactionTime(ms),ResponseClassification,CorrectResponse
+63880589768354,4/18/2025 4:16:08 PM,T,No,No,500.97,Correct Rejection
+63880589771364,4/18/2025 4:16:11 PM,K,No,No,1010.85,Correct Rejection
+63880589774143,4/18/2025 4:16:14 PM,K,Yes,Yes,1288.97,Hit
+63880589777375,4/18/2025 4:16:17 PM,G,No,No,2011.28,Correct Rejection
+63880589780376,4/18/2025 4:16:20 PM,G,Yes,No,11.63,Miss
+63880589781697,4/18/2025 4:16:21 PM,G,Yes,Yes,1332.28,Hit
+63880589784908,4/18/2025 4:16:24 PM,K,No,No,2043.53,Correct Rejection
+63880589787909,4/18/2025 4:16:27 PM,G,No,No,22.53,Correct Rejection

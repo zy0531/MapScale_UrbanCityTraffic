@@ -1,0 +1,12 @@
+
+Time;Landmark_name;Landmark_viewPos;est_x;est_y;est_z;answer_x;anwser_y;answer_z
+4/21/2025 6:22:58 PM;;
+Time;Landmark_name;Landmark_viewPos;est_x;est_y;est_z;answer_x;anwser_y;answer_z
+4/21/2025 6:23:06 PM;;
+4/21/2025 6:24:24 PM;TargetLandmark1_Billboard;(0.631, 0.600, 2.258);0.631;0.600;2.258;0.598;0.395;290.000
+4/21/2025 6:24:24 PM;TargetLandmark2_LionStatue;(0.511, 0.816, 2.106);0.511;0.816;2.106;0.394;0.217;292.500
+4/21/2025 6:24:24 PM;TargetLandmark3_GlobalLandmark1;(0.117, 0.304, 2.376);0.117;0.304;2.376;0.117;0.395;260.000
+4/21/2025 6:24:24 PM;TargetLandmark4_GasStation;(0.475, 0.409, 2.107);0.475;0.409;2.107;0.307;0.677;295.000
+4/21/2025 6:24:24 PM;TargetLandmark5_Church;(0.122, 0.840, 2.396);0.122;0.840;2.396;0.604;0.882;275.000
+4/21/2025 6:24:24 PM;TargetLandmark6_GlobalLandmark2;(0.366, 0.762, 2.259);0.366;0.762;2.259;0.869;0.849;235.000
+4/21/2025 6:24:24 PM;TargetLandmark7_MusicShop;(0.187, 0.626, 2.325);0.187;0.626;2.325;0.791;0.569;280.000
